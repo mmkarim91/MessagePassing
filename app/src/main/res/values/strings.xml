@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MessagePassing</string>
+    <string name="msg1">Default Message</string>
+    <string name="btn1">Get Message</string>
+</resources>
